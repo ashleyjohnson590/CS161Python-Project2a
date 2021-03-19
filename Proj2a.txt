@@ -1,0 +1,13 @@
+# Author:Ashley Johnson
+# Date: 9/26/20
+# Description: Asks the user for 5 numbers then prints out the average.
+
+print("Please enter 5 numbers. ")
+num_1=float(input())
+num_2=float(input())
+num_3=float(input())
+num_4=float(input())
+num_5=float(input())
+
+print( "The average of those numbers is: ")
+print ((num_1+num_2+num_3+num_4+num_5)/5)
